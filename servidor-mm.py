@@ -78,10 +78,11 @@ while True:
                     udp.sendto(resposta.encode(), c)
 
                     if not jogo_rolando:
+                        jogo = None
                         jogo = novo_jogo()   
-                        jogo_rolando = True
                         palavra = jogo[0]
                         hints = jogo[1]
+                        jogo_rolando = True
                     
                     temp = "NOVO JOGO\n"
                     for i in range(3):
