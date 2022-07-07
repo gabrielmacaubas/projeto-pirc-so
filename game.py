@@ -18,7 +18,8 @@ def tentar(palavra_tentada, palavra_certa):
 
 # str do menu de opções
 def show():
-    s = f'''OPÇÕES:
+    s = f'''PROTOCOLO MM
+    OPÇÕES:
     [start] para começar o jogo
     [try] para tentar palavra
     [sair] para sair do jogo
