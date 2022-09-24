@@ -15,7 +15,6 @@ def tentar(palavra_tentada, palavra_certa):
 
     else:
         return False
-
 # str do menu de opções
 def show():
     s = f'''PROTOCOLO MM
