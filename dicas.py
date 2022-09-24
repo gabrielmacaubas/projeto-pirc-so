@@ -6,4 +6,4 @@ dicas = {
     "chave": ("tem braço", "tem inglesa", "fechadura"),
     "balança": ("libra", "justiça", "tem no açougue"),
     "gangorra": ("tem no parque", "brinquedo", "sobe e desce")
-}
+ }
