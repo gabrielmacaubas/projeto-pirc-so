@@ -1,4 +1,4 @@
-# projeto-pirc-so
+# Jogo das três dicas
  Projeto realizado em conjunto nas disciplinas de Protocolos de Interconexão de Redes de Computadores e Sistemas Operacionais, envolvendo sockets, semáforos para exclusão mútua e threads
  
  Integrantes: Gabriel Macaúbas Melo e Maria Eduarda de Almeida Vitorino.
